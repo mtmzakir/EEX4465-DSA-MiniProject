@@ -13,7 +13,6 @@ public class MiniProject {
 
         System.out.println("(\uD83D\uDCAFwordsHK7, \uD83D\uDCAFwordsQHK7) Files Created Successfully...");
         System.out.println("Please Check Your MiniProject Folder...\uD83D\uDE09");
-        System.out.println("Please Check Your MiniProject Folder...\uD83D\uDE09");
 
         // Inserting file7.txt (Because My Reg.No Starts with 7 ~ 721420419)
         try (BufferedReader buffer = new BufferedReader(
